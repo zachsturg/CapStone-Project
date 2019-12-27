@@ -1,2 +1,2 @@
 # CapStone-Project
-My final capstone project. Fish image classification using convolutional neural networks.
+My final capstone project. Fish image classification using convolutional neural networks. Four classes of fish from the WildFish dataset were used for this work. Three models consisting of 3, 4, and 5 convolutional layer networks were constructed. Each was trained and compared on both 64x64x3 and 128x128x3 image sizes. Of these, the best performing model was the 4 convolutional layer trained on 128x128x3 data with an accuracy of 92%.
